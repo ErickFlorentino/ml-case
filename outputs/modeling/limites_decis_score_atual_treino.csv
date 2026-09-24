@@ -1,0 +1,11 @@
+Decil Acumulado;Percentual Acumulado;Top Acumulado;Threshold Score Risco Treino;Threshold Score Original
+1;0.1;Top 10%;88.0;88.0
+2;0.2;Top 20%;78.0;78.0
+3;0.30000000000000004;Top 30%;68.0;68.0
+4;0.4;Top 40%;58.0;58.0
+5;0.5;Top 50%;48.0;48.0
+6;0.6;Top 60%;38.0;38.0
+7;0.7000000000000001;Top 70%;28.0;28.0
+8;0.8;Top 80%;18.0;18.0
+9;0.9;Top 90%;8.0;8.0
+10;1.0;Top 100%;-inf;-inf
