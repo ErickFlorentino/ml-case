@@ -70,13 +70,7 @@ Utilizando:
 
 ## Principais Resultados
 
-Melhor resultado por Average Precision:
-
-| Modelo | Feature Set | AP |
-|----------|----------|---------:|
-| Random Forest | top_total | 0.3157 |
-
-Melhor resultado por AUC:
+Melhor resultado:
 
 | Modelo | Feature Set | AUC |
 |----------|----------|---------:|
